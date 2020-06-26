@@ -1,14 +1,13 @@
 1- Copie dossier wordpress dans " C:/xampp/htdocs " 
+   
+ > 2- cree base donnée (executer le fichier :wordpress.sql)
+ 
+ 
+ > 3- execute projet wordpress dans navigateur
 
- > 2-Copie dossier wordpress dans " C:/xampp/htdocs "   
+            lien: http://localhost/wordpress/
  
- > 3- cree base donnée (executer le fichier :wordpress.sql)
- 
- 
- > 4- execute projet wordpress dans navigateur:http://localhost/wordpress/
-
- 
- > 5- Login:
+ > 4- Login:
  
             -Username : ghali
             
